@@ -1,0 +1,10 @@
+from .single_objective.Real_World_SOPs.Sequence_Pte import Sequence_Pte
+from .single_objective.Real_World_SOPs.Sequence_Pte_New import Sequence_Pte_New
+from .single_objective.Real_World_SOPs.Sequence_Pte_New2 import Sequence_Pte_New2
+from .single_objective.Real_World_SOPs.Sequence_Pte_New3 import Sequence_Pte_New3
+from .single_objective.Real_World_SOPs.Sequence_Pte_New4_2 import Sequence_Pte_New4_2
+from .single_objective.Real_World_SOPs.Sequence_Pte_New_last import Sequence_Pte_New_last
+from .single_objective.Real_World_SOPs.Sequence_Pte_New_Real import Sequence_Pte_New_Real
+
+from .single_objective.Real_World_SOPs.DTLZ1 import DTLZ1
+from .single_objective.Real_World_SOPs.CEC_2020_F1 import CEC_2020_F1
